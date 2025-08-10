@@ -6,3 +6,5 @@ vless://08ff9679-dc03-4642-b26c-1b8d7fa368b2@http.gozaroshloreshin.ir:2086?path=
 
 trojan://7h7f0Du1Nb@62.60.148.163:11016?security=none&headerType=&type=tcp#FR-Trojan
 
+
+vmess://eyJhZGQiOiIxNTkuNjUuMjAyLjI0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmwtZnJlZXZtZXNzLnByaXZhdGVpcC5uZXQiLCJpZCI6Ijc2YjRhYmQ0LTc5YjItNDkzNC1iMjcxLTVmMWMwYWZlOTFmOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9uZXdzIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3Mtd3MtdGxzIiwic2N5IjoiYXV0byIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
