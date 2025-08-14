@@ -1,1 +1,5 @@
 vmess://eyJhZGQiOiIxNTkuNjUuMjAyLjI0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmwtZnJlZXZtZXNzLnByaXZhdGVpcC5uZXQiLCJpZCI6Ijc2YjRhYmQ0LTc5YjItNDkzNC1iMjcxLTVmMWMwYWZlOTFmOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9uZXdzIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3Mtd3MtdGxzIiwic2N5IjoiYXV0byIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=%2F&security=&encryption=none&type=ws#musuli%F0%9F%93%B2%F0%9F%93%B2%F0%9F%93%A1
+
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-18.access.name.ng&fp=random&type=ws&sni=lease-18.access.name.ng#%40msli-WiFi--21
